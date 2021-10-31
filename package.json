@@ -20,6 +20,7 @@
     "@astrojs/renderer-preact": "^0.0.0-compiler-2021928195510",
     "@astrojs/renderer-react": "^0.0.0-compiler-2021928195510",
     "@astrojs/renderer-svelte": "^0.0.0-compiler-2021928195510",
-    "@astrojs/renderer-vue": "^0.0.0-compiler-2021928195510"
+    "@astrojs/renderer-vue": "^0.0.0-compiler-2021928195510",
+    "vite-imagetools": "^3.8.0"
   }
 }
